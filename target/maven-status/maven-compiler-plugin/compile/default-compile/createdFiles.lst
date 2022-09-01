@@ -1,0 +1,4 @@
+jenkins\rest\JaxRsActivator.class
+jenkins\controller\MemberController.class
+jenkins\util\WebResources.class
+jenkins\rest\MemberResourceRESTService.class
